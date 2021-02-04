@@ -8,6 +8,9 @@ We've already explored how to structure webpages with HTML and style them with C
 
 As the only programming language native to web browsers, JavaScript is used all over the web&mdash;making it a crucial skill in your toolbox. But Javascript development skills are also versatile. Once you have mastered JavaScript, it is much easier to pick up the fundamentals of other programming languages. 
 
+## Slide Deck
+
+* [Unit 03 Slide Deck](https://docs.google.com/presentation/d/125APA1-Q3Tu6Sjevvriy2BQy7y7LCrEqxUlovWNGBt0/edit?usp=sharing)
 ## Key Topics
 
 The following topics will be covered in this unit:
